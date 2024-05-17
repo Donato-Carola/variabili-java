@@ -5,11 +5,8 @@
 
 // 
 
-
-
 public class main {
-
-    public static void main(String[] args) {
+public static void main(String[] args) {
         // - Creare una variabile del tipo opportuno per contenere una media aritmetica
         double media;
         // - Creare una variabile del tipo opportuno per contenere una potenza del due
@@ -20,11 +17,11 @@ public class main {
         // - Creare una variabile del tipo opportuno per contenere il peso di una
         // persona
         float peso;
-// - Creare una variabile intera e assegnare come valore 30
+        // - Creare una variabile intera e assegnare come valore 30
 
-int num = 30;
+        int num = 30;
 
-
+        
 
     }
 }
